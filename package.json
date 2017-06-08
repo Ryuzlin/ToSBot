@@ -12,5 +12,8 @@
     "calculator"
   ],
   "author": "Ryuzlin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
 }
